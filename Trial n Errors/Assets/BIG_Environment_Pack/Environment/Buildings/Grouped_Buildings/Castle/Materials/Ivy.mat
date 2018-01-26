@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Ivy
+  m_Shader: {fileID: 51, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 070f68f6e62e6f04a9841813d0f9b800, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Dif:
+        m_Texture: {fileID: 2800000, guid: 68c0d56ffc7802b44b4e541e02ad7615, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GlossMap:
+        m_Texture: {fileID: 2800000, guid: f124fc27692f2b943bc9de4aa572ba0e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 68c0d56ffc7802b44b4e541e02ad7615, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Nor:
+        m_Texture: {fileID: 2800000, guid: 070f68f6e62e6f04a9841813d0f9b800, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ShadowOffset:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Spec:
+        m_Texture: {fileID: 2800000, guid: f124fc27692f2b943bc9de4aa572ba0e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TranslucencyMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _dif:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AO: 0
+    - _BaseLight: 0.73134327
+    - _CutOut: 0.1576355
+    - _Cutoff: 0.5604479
+    - _Cutout: 0.5075362
+    - _Gloss: 0.08955224
+    - _Occlusion: 0
+    - _Shininess: 1
+    - _SquashAmount: 1
+    - _light: 0
+    m_Colors:
+    - _Color: {r: 0.75373137, g: 0.6952014, b: 0.6187347, a: 1}
+    - _Diff_Color: {r: 0.9029851, g: 0.76396996, b: 0.5054021, a: 1}
+    - _Scale: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecColor: {r: 0.059701502, g: 0.057473835, b: 0.057473835, a: 0}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6

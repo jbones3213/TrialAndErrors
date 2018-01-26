@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Planks
+  m_Shader: {fileID: 4, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: b98bd7e30684909448d20d5cb3f380d3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Dif:
+        m_Texture: {fileID: 2800000, guid: 0abd22797d61c7141aa1a4a6ef4c2dd6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 3d6e8115d5dbdb44aadaf789e30d9ffd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Nor:
+        m_Texture: {fileID: 2800000, guid: b98bd7e30684909448d20d5cb3f380d3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Spec:
+        m_Texture: {fileID: 2800000, guid: ee007e18ee9c71d4f8a37a41af7d46e9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Gloss: 0.029850746
+    - _Shininess: 0.08891806
+    m_Colors:
+    - _Color: {r: 0.82089555, g: 0.81027126, b: 0.7963912, a: 1}
+    - _Diff_Color: {r: 0.8283582, g: 0.8219603, b: 0.8159946, a: 1}
+    - _SpecColor: {r: 0.76119405, g: 0.76119405, b: 0.76119405, a: 1}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6
