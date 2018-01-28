@@ -8,6 +8,24 @@ TagManager:
   - Fire
   - WP
   - Spawn Point
+  - Conductor
+  - Tornado
+  - Butter
+  - Grass
+  - Freezable
+  - PPaint
+  - water
+  - SkyMasterTree
+  - Flammable
+  - Flamer
+  - NoForcePDM
+  - Road
+  - Hero
+  - INfiniDyForestInter
+  - INfiniDyTreeRoot
+  - INfiniDyForest
+  - Axe
+  - INfiniDyTree
   layers:
   - Default
   - TransparentFX
